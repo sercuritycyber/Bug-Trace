@@ -131,6 +131,8 @@ bugtrace/
 > BugTrace is intended for **authorised security testing only**.  
 > Only use this tool against systems you have explicit permission to test.  
 > The author is not responsible for any misuse or damage caused by this software.
+> Created and Packaed by SecurityCyber
+> https://securitycyber.uk
 
 ---
 
